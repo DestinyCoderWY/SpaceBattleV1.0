@@ -1,5 +1,5 @@
 # SpaceBattleV1.0
-Android端星球主题小游戏 华东师范大学 吴岳
+Android端星球主题小游戏
 
 已上传Taptap，下载链接为https://www.taptap.com/app/131457
 
